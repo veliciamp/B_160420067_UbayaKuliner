@@ -1,0 +1,39 @@
+[
+  {
+    "idKuliner": "1",
+    "idReview":"1",
+    "name": "Adele",
+    "review":"Cocok banget enak makanannya"
+    
+  },
+  {
+    "idKuliner": "1",
+    "idReview":"2",
+    "name": "Armando",
+    "review":"Biasa aja"
+  },
+  {
+    "idKuliner": "1",
+    "idReview":"3",
+    "name": "Alicia",
+    "review":"Porsinya terlalu sedikit"
+  },
+  {
+    "idKuliner": "1",
+    "idReview":"4",
+    "name": "Alina",
+    "review":"Kalo ga suka pedas ini gaenak banget"
+  },
+  {
+    "idKuliner": "1",
+    "idReview":"5",
+    "name": "Alexander",
+    "review":"Kuy cobain"
+  },
+  {
+    "idKuliner": "1",
+    "idReview":"6",
+    "name": "Alejandro",
+    "review":"Ambience nya asik buat nongkrong"
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+      
+        "idKuliner": "3",
+        "idReview":"1",
+        "name": "Clarissa",
+        "review":"THE BEST"
+        
+      },
+      {
+        "idKuliner": "3",
+        "idReview":"2",
+        "name": "Claresta",
+        "review":"Enak banget"
+      },
+      {
+        "idKuliner": "3",
+        "idReview":"3",
+        "name": "Celine",
+        "review":"Murah meriah tapi ga murahan"
+      }
+  ]

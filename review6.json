@@ -1,0 +1,20 @@
+[
+    {
+        "idKuliner": "6",
+        "idReview": "1",
+        "name": "Felista",
+        "review": "THE BEST"
+    },
+    {
+        "idKuliner": "6",
+        "idReview": "2",
+        "name": "Felisa",
+        "review": "Enak banget"
+    },
+    {
+        "idKuliner": "6",
+        "idReview": "3",
+        "name": "Felix",
+        "review": "Murah meriah tapi ga murahan"
+    }
+]
