@@ -33,5 +33,12 @@
     "category": "Snack",
     "phone": "9465517509",
     "photo_url": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Batagor",
+    "category": "Snack",
+    "phone": "9465517509",
+    "photo_url": "https://randomuser.me/api/portraits/women/50.jpg"
   }
 ]
