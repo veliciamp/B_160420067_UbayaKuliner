@@ -1,0 +1,24 @@
+
+[
+    {
+        "idKuliner": "1",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Gabby",
+        "review":"Mozarella nya enak banget"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Gabriel",
+        "review":"Ayamnya kering"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Gaga",
+        "review":"Ayamnya kecil"
+    }
+]

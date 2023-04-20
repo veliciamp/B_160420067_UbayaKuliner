@@ -1,0 +1,24 @@
+
+[
+    {
+        "idKuliner": "1",
+        "idMenu": "3",
+        "idReview":"1",
+        "name": "Ina",
+        "review":"Kurang mantap sambal bawangnya"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "3",
+        "idReview":"2",
+        "name": "Ino",
+        "review":"Oke sih, tapi kurang pedas"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "3",
+        "idReview":"3",
+        "name": "Ian",
+        "review":"Ga suka"
+    }
+]
