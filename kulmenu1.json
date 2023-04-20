@@ -1,0 +1,26 @@
+[
+    {
+        "idKuliner": "1",
+        "idMenu": "1",
+        "name": "Ayam Geprek Mozarella",
+        "harga": "Rp 16.000",
+        "keterangan":"Dada ayam goreng dengan keju mozarella",
+        "photo_url":"https://img-global.cpcdn.com/recipes/1e8c0ba976dead8b/680x482cq70/ayam-geprek-mozzarella-foto-resep-utama.webp"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "2",
+        "name": "Ayam Geprek Sambel Matah",
+        "harga": "Rp 15.000",
+        "keterangan":"Paha ayam goreng dengan sambal matah khas Bali",
+        "photo_url":"https://sweetrip.id/wp-content/uploads/2020/06/kulineran.mjk_43095891_279983372639484_2378418560705985932_n.jpg"
+    },
+    {
+        "idKuliner": "1",
+        "idMenu": "3",
+        "name": "Ayam Geprek Sambel Bawang",
+        "harga": "Rp 10.000",
+        "keterangan":"Sayap ayam goreng dengan sambal bawang",
+        "photo_url":"https://www.sajianlezat.com/wp-content/Resep-Fried-Chicken-Geprek-Sambal-Bawang.webp"
+    }
+]
