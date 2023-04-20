@@ -1,0 +1,26 @@
+[
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "name": "Taco",
+        "harga": "Rp 25.000",
+        "keterangan":"Best Taco from Mexico",
+        "photo_url":"https://img.taste.com.au/R_dRdL7V/taste/2022/09/healthy-tacos-recipe-181113-1.jpg"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "2",
+        "name": "Quesadillas",
+        "harga": "Rp 20.000",
+        "keterangan":"Gluten Free Quesadillas",
+        "photo_url":"https://girlheartfood.com/wp-content/uploads/2020/06/Ground-Beef-Quesadillas-4.jpg"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "3",
+        "name": "Nachos",
+        "harga": "Rp 30.000",
+        "keterangan":"Itallian Pizza with pepperoni",
+        "photo_url":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-main-1.jpg"
+    }
+]
