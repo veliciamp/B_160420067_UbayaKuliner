@@ -22,6 +22,13 @@
   },
   {
     "id": "4",
+    "name": "Ayam Geprek",
+    "category": "Side Dish",
+    "phone": "5718444778",
+    "photo_url": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "id": "5",
     "name": "Batagor",
     "category": "Snack",
     "phone": "9465517509",
