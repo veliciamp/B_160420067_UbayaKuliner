@@ -1,0 +1,26 @@
+[
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "name": "Sashimi",
+        "harga": "Rp 50.000",
+        "keterangan":"Assorted sashimi (Salmon, Tuna, and Shrimp)",
+        "photo_url":"https://aubreyskitchen.com/wp-content/uploads/2021/01/salmon-sashimi-recipe.jpg"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "name": "Nigiri",
+        "harga": "Rp 40.000",
+        "keterangan":"Salmon and Tuna Nigiri",
+        "photo_url":"https://foto.kontan.co.id/WLrnMY_q7E6mESCSSbzRkQAcxTQ=/smart/filters:format(webp)/2022/06/24/2037422675p.jpg"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "name": "California Roll",
+        "harga": "Rp 30.000",
+        "keterangan":"Best California Roll From Japan",
+        "photo_url":"https://www.simplyrecipes.com/thmb/EgyBYE---ytAEssbF2zQP5eyDds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-California-Roll-LEAD-05-3c3a2fb4a9034e5c8cb34d6a24d9731e.jpg"
+    }
+]
