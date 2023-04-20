@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Julian",
+        "review":"Carbonara nya kurang nendang"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Jennifer",
+        "review":"Ga sebanding sama harganya, terlalu mahal"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Julius",
+        "review":"Carbonaranya rasanya aneh"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Juan",
+        "review":"Carbonaranya terlalu sedikit"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Jesslyn",
+        "review":"Pastanya kurang matang"
+    }
+]

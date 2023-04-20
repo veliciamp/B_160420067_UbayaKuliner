@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "6",
+        "idMenu": "2",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Enak banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "2",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Enak banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "2",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Enak banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "2",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Enak banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "2",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Enak banget"
+    }
+]

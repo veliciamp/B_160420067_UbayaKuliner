@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "idReview":"1",
+        "name": "Kaka",
+        "review":"Bolognese nya enak"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "idReview":"2",
+        "name": "Killian",
+        "review":"Dagingnya banyak mantap"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "idReview":"3",
+        "name": "Katy",
+        "review":"Enak bgt"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "idReview":"4",
+        "name": "Kaliandra",
+        "review":"waw"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "idReview":"5",
+        "name": "Kahitna",
+        "review":"Enak"
+    }
+]

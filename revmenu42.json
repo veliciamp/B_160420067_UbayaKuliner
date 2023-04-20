@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Nigirinya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Nigirinya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Nigirinya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Nigirinya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "2",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Nigirinya enak"
+    }
+]

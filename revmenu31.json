@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Lebih enak siomay abang yang naik sepeda"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Ga konsisten bentuk siomay nya"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Ga banget"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"ew"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Ga recommend bgt sih"
+    }
+]

@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Sashiminya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Sashiminya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Sashiminya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Sashiminya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Sashiminya enak"
+    }
+]

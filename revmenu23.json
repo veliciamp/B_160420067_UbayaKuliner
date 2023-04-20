@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "idReview":"1",
+        "name": "Lala",
+        "review":"Enak Pizza lapak sebelah"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "idReview":"2",
+        "name": "Lili",
+        "review":"Pepperoni nya gosong"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "idReview":"3",
+        "name": "Lulu",
+        "review":"Ga banget"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "idReview":"4",
+        "name": "Lavina",
+        "review":"ew"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "idReview":"5",
+        "name": "Linda",
+        "review":"Ga recommend bgt sih"
+    }
+]

@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Quesadillasnya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Quesadillasnya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Quesadillasnya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Quesadillasnya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Quesadillasnya enak"
+    }
+]

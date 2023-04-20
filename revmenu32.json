@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"ENAK BGT XIAO LONG BAO NYA"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"REORDER KE1000000 kalinya"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Enak banget"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Gila enak banget"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"MUST TRY BANGET"
+    }
+]

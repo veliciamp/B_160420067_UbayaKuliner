@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"California Rollnya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"California Rollnya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"California Rollnya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"California Rollnya enak"
+    },
+    {
+        "idKuliner": "4",
+        "idMenu": "3",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"California Rollnya enak"
+    }
+]

@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Taconya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Taconya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Taconya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Taconya enak"
+    },
+    {
+        "idKuliner": "5",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Taconya enak"
+    }
+]

@@ -1,0 +1,38 @@
+
+[
+    {
+        "idKuliner": "6",
+        "idMenu": "1",
+        "idReview":"1",
+        "name": "Mamat",
+        "review":"Buah naganya kerasa banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "1",
+        "idReview":"2",
+        "name": "Mimi",
+        "review":"Buah naganya kerasa banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "1",
+        "idReview":"3",
+        "name": "Matthew",
+        "review":"Buah naganya kerasa banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "1",
+        "idReview":"4",
+        "name": "Michelle",
+        "review":"Buah naganya kerasa banget"
+    },
+    {
+        "idKuliner": "6",
+        "idMenu": "1",
+        "idReview":"5",
+        "name": "Miranda",
+        "review":"Buah naganya kerasa banget"
+    }
+]
