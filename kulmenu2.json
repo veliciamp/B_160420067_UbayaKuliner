@@ -1,0 +1,26 @@
+[
+    {
+        "idKuliner": "2",
+        "idMenu": "1",
+        "name": "Carbonara",
+        "harga": "Rp 25.000",
+        "keterangan":"Spaghetti Carbonara with mushrooms and smoked beef",
+        "photo_url":"https://assets.bonappetit.com/photos/5a6f48f94f860a026c60fd71/1:1/w_1920,c_limit/pasta-carbonara.jpg"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "2",
+        "name": "Bolognese",
+        "harga": "Rp 20.000",
+        "keterangan":"Pasta with bolognese sauce",
+        "photo_url":"https://feelgoodfoodie.net/wp-content/uploads/2019/02/Pasta-Bolognese-8.jpg"
+    },
+    {
+        "idKuliner": "2",
+        "idMenu": "3",
+        "name": "Pizza",
+        "harga": "Rp 30.000",
+        "keterangan":"Itallian Pizza with pepperoni",
+        "photo_url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg"
+    }
+]

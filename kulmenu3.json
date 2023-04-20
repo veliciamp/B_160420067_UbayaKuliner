@@ -1,0 +1,26 @@
+[
+    {
+        "idKuliner": "3",
+        "idMenu": "1",
+        "name": "Siomay",
+        "harga": "Rp 15.000",
+        "keterangan":"Siomay biasa sih",
+        "photo_url":"https://awsimages.detik.net.id/community/media/visual/2022/01/24/resep-siomay-ayam_43.jpeg?w=1200"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "2",
+        "name": "Xiao Long Bao",
+        "harga": "Rp 15.000",
+        "keterangan":"Isi ayam",
+        "photo_url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Xiaolongbao-breakfast.jpg"
+    },
+    {
+        "idKuliner": "3",
+        "idMenu": "3",
+        "name": "Shrimp Roll",
+        "harga": "Rp 15.000",
+        "keterangan":"Isi udang",
+        "photo_url":"https://umamidays.com/wp-content/uploads/2022/06/vietnamese-shrimp-spring-rolls.jpg"
+    }
+]
