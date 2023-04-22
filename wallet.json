@@ -1,0 +1,31 @@
+[{
+        "idWallet": "1",
+        "namaWallet": "OVO",
+        "saldoWallet": "Rp 500.000",
+        "photo_url": "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/1fac829304066a942f3c5fd81434fae3.jpg"
+    },
+    {
+        "idWallet": "2",
+        "namaWallet": "Shopee Pay",
+        "saldoWallet": "Rp 0",
+        "photo_url": "https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/281134193_569230467970809_5740045647670796628_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeERJyi9lF8CEH4algc7gDeJOiSxMw3-yM46JLEzDf7IzoDMuAgLT3iBA8sV2kIenvu0Rgthvy8Rt0jPUAJqVW_r&_nc_ohc=0zeY9rOc6-QAX8vop14&_nc_ht=scontent.fsub8-2.fna&oh=00_AfDKHUQDgZcvTenLqvdcovpUXMTPOCUUPWjiOam3nDNokQ&oe=644811C4"
+    }, 
+    {
+        "idWallet": "3",
+        "namaWallet": "Jenius",
+        "saldoWallet": "Rp 30.000",
+        "photo_url": "https://www.jenius.com/assets/ico/richlink.jpg"
+    }, 
+    {
+        "idWallet": "4",
+        "namaWallet": "Sakuku",
+        "saldoWallet": "Rp 25.000",
+        "photo_url": "https://img-global.cpcdn.com/recipes/1e8c0ba976dead8b/680x482cq70/ayam-geprek-mozzarella-foto-resep-utama.webp"
+    }, 
+    {
+        "idWallet": "5",
+        "namaWallet": "Uangku",
+        "saldoWallet": "Rp 100.000",
+        "photo_url": "https://image.cermati.com/v1534323921/kfj1yc3mzovp5dc25pba.png"
+    }
+]
