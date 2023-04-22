@@ -1,0 +1,33 @@
+[{
+        "idPromo": "1",
+        "namaPromo": "30% Discount",
+        "makananPromo": "2 Siomay + Xiao Long Bao",
+        "hargaAsli": "Rp 45.000",
+        "hargaDiskon": "Rp 31.500",
+        "photo_url": "https://asset.kompas.com/crops/YQdGLZ8l8_LhzBTh56pFGowyAbA=/4x0:1000x664/750x500/data/photo/2023/01/17/63c5f79e5ef63.jpeg"
+    },
+    {
+        "idPromo": "2",
+        "namaPromo": "50% Discount for second item",
+        "makananPromo": "Taco + QUesadillas",
+        "hargaAsli": "Rp 45.000",
+        "hargaDiskon": "Rp 26.000",
+        "photo_url": "https://www.pinkvilla.com/imageresize/from_tacos_to_guacamole_6_most_popular_mexican_dishes_you_must_try_once_main.jpg?width=752&t=pvorg"
+    },
+    {
+        "idPromo": "3",
+        "namaPromo": "Buy 1 Get 1",
+        "makananPromo": "2 Pizza",
+        "hargaAsli": "Rp 60.000",
+        "hargaDiskon": "Rp 30.000",
+        "photo_url": "https://cdn1-production-images-kly.akamaized.net/dh0FIdjKMWy2MsevYxHXOjpElek=/0x194:5616x3359/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3048436/original/030475400_1581499756-shutterstock_413580649.jpg"
+    },
+    {
+        "idPromo": "4",
+        "namaPromo": "Rp 50.000 off",
+        "makananPromo": "Dragon Fruit Smoothie Bowl + Banana Smoothie Bowl",
+        "hargaAsli": "Rp 90.000",
+        "hargaDiskon": "Rp 40.000t",
+        "photo_url": "https://www.eatingbirdfood.com/wp-content/uploads/2021/05/smoothie-bowl-hero-670x838.jpg"
+    }
+]
