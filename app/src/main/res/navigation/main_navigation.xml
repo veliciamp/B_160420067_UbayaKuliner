@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/itemHome">
+
+    <fragment
+        android:id="@+id/itemHome"
+        android:name="com.ubaya.ubayakuliner160420067.view.KulinerListFragment"
+        android:label="fragment_popular"
+        tools:layout="@layout/fragment_popular">
+        <action
+            android:id="@+id/actionDetailKuliner"
+            app:destination="@id/kulinerDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kulinerDetailFragment"
+        android:name="com.ubaya.ubayakuliner160420067.view.KulinerDetailFragment"
+        android:label="fragment_kuliner_detail"
+        tools:layout="@layout/fragment_kuliner_detail" >
+        <argument android:name="idKuliner"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionDetailKulinerReview"
+            app:destination="@id/reviewDetailFragment" />
+        <action
+            android:id="@+id/actionDetailMenu"
+            app:destination="@id/menuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reviewDetailFragment"
+        android:name="com.ubaya.ubayakuliner160420067.view.DetailReviewFragment"
+        android:label="fragment_detail_review"
+        tools:layout="@layout/fragment_detail_review" >
+        <argument
+            android:name="idDetailReview"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.ubaya.ubayakuliner160420067.view.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+        <argument android:name="idKuliner"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionMenuDetailMenu"
+            app:destination="@id/detailMenuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailMenuFragment"
+        android:name="com.ubaya.ubayakuliner160420067.view.DetailMenuFragment"
+        android:label="fragment_detail_menu"
+        tools:layout="@layout/fragment_detail_menu" >
+        <argument
+            android:name="idKulinerKuliner"
+            app:argType="string" />
+        <argument
+            android:name="idMenuKuliner"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionMenuDetailMenuReview"
+            app:destination="@id/menuReviewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuReviewFragment"
+        android:name="com.ubaya.ubayakuliner160420067.view.MenuReviewFragment"
+        android:label="fragment_menu_review"
+        tools:layout="@layout/fragment_menu_review" >
+        <argument android:name="idDetailKuliner"
+            app:argType="string" />
+        <argument
+            android:name="idDetailMenu"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemOrder"
+        android:name="com.ubaya.ubayakuliner160420067.view.OrdersFragment"
+        android:label="fragment_orders"
+        tools:layout="@layout/fragment_orders" />
+    <fragment
+        android:id="@+id/itemPromo"
+        android:name="com.ubaya.ubayakuliner160420067.view.PromoFragment"
+        android:label="fragment_promo"
+        tools:layout="@layout/fragment_promo" />
+    <fragment
+        android:id="@+id/itemWallet"
+        android:name="com.ubaya.ubayakuliner160420067.view.WalletFragment"
+        android:label="fragment_wallet"
+        tools:layout="@layout/fragment_wallet" />
+</navigation>
