@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_categories.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_detail_cart.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_detail_menu.xml" value="0.176" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_detail_review.xml" value="0.1125" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_history.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_kuliner_detail.xml" value="0.14509122502172025" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_kuliner_list.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_menu_review.xml" value="0.176" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_popular.xml" value="0.11145833333333334" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_promo.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_review_menu.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/fragment_wallet.xml" value="0.1" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/kuliner_list_item.xml" value="0.264" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/menu_list_item.xml" value="0.264" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/order_list_item.xml" value="0.4" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/promo_list_item.xml" value="0.25" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/review_list_item.xml" value="0.264" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/review_menu_list_item.xml" value="0.536" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/layout/wallet_list_item.xml" value="0.264" />
+        <entry key="..\:/Velicia_MP/UBAYA/TEKNIK_INFORMATIKA/SEMESTER_6/UbayaKuliner160420067/app/src/main/res/menu/bottom_menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
